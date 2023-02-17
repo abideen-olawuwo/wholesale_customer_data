@@ -1,2 +1,3 @@
-Predicting Global Game Sales using Linear Regression Model
-The data was downloaded from Kaggle(https://www.kaggle.com/datasets/gregorut/videogamesales)
+Using Unsupervised Learning (Clustering) For Annual spending in monetary units of clients of a wholesale distributor,
+The dataset was downloaded from kaggle.com
+https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set
