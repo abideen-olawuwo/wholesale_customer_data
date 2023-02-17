@@ -1,3 +1,2 @@
-
-Predicting Survived Rate using naive-bayes model the data was downloaded from kaggle 
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Predicting Global Game Sales using Linear Regression Model
+The data was downloaded from Kaggle(https://www.kaggle.com/datasets/gregorut/videogamesales)
